@@ -5,8 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 
 // This test will have the user enter a URL. If the URL is valid, the web page will open to the
-// valid URL and the site title will be printed to the console. If the URL is not Valid they will 
-// receive an "Invalid URL" message.
+// valid URL, and the site title will be printed to the console. If the URL is not valid, the user
+// will receive an "Invalid URL" message.
 public class URLTest {
 
 	public static void main(String[] args) {
